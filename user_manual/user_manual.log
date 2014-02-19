@@ -1,0 +1,864 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2014.2.6)  6 FEB 2014 16:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**user_manual.tex
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/user_manual.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip43
+\subfigcapskip=\skip44
+\subfigcaptopadj=\dimen103
+\subfigbottomskip=\skip45
+\subfigcapmargin=\dimen104
+\subfiglabelskip=\skip46
+\c@subfigure=\count88
+\c@lofdepth=\count89
+\c@subtable=\count90
+\c@lotdepth=\count91
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2013/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip47
+\subfig@bottom=\skip48
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+\epsfxsize=\dimen107
+\epsfysize=\dimen108
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen109
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen110
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks16
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks17
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks18
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count104
+\rotFPtop=\skip53
+\rotFPbot=\skip54
+\rot@float@box=\box28
+\rot@mess@toks=\toks20
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/moreverb/moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks21
+\verbatim@line=\toks22
+\verbatim@in@stream=\read1
+)
+\tab@position=\count105
+\tab@size=\count106
+\listing@line=\count107
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count108
+\lst@gtempboxa=\box29
+\lst@token=\toks23
+\lst@length=\count109
+\lst@currlwidth=\dimen118
+\lst@column=\count110
+\lst@pos=\count111
+\lst@lostspace=\dimen119
+\lst@width=\dimen120
+\lst@newlines=\count112
+\lst@lineno=\count113
+\lst@maxwidth=\dimen121
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count114
+\lst@skipnumbers=\count115
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/xorp_toc.sty
+Package: xorp_toc 1999/09/19 v1.0 parameterised ToC, etc., typesetting
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/stdclsdv/stdclsdv.sty
+Package: stdclsdv 2009/09/04 v1.1a Sectional divisions
+)
+\cftbeforetoctitleskip=\skip55
+\cftaftertoctitleskip=\skip56
+\cftbeforepartskip=\skip57
+\cftpartnumwidth=\skip58
+\cftbeforechapskip=\skip59
+\cftchapindent=\skip60
+\cftchapnumwidth=\skip61
+\cftbeforesecskip=\skip62
+\cftsecindent=\skip63
+\cftsecnumwidth=\skip64
+\cftbeforesubsecskip=\skip65
+\cftsubsecindent=\skip66
+\cftsubsecnumwidth=\skip67
+\cftbeforesubsubsecskip=\skip68
+\cftsubsubsecindent=\skip69
+\cftsubsubsecnumwidth=\skip70
+\cftbeforeparaskip=\skip71
+\cftparaindent=\skip72
+\cftparanumwidth=\skip73
+\cftbeforesubparaskip=\skip74
+\cftsubparaindent=\skip75
+\cftsubparanumwidth=\skip76
+\cftbeforeloftitleskip=\skip77
+\cftafterloftitleskip=\skip78
+\cftbeforefigskip=\skip79
+\cftfigindent=\skip80
+\cftfignumwidth=\skip81
+\cftbeforelottitleskip=\skip82
+\cftafterlottitleskip=\skip83
+\cftbeforetabskip=\skip84
+\cfttabindent=\skip85
+\cfttabnumwidth=\skip86
+)
+(/Users/wmiltenbur/git/xorp.ct/docs-public18/user_manual/user_manual.aux)
+\openout1 = `user_manual.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 68.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\c@lstlisting=\count116
+LaTeX Font Info:    Try loading font information for U+lasy on input line 79.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+stmry on input line 79.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/stmaryrd/Ustmry.fd) [1
+
+
+]
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/preface.tex [2
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 26.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 28.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+ [3]) [4]
+(/Users/wmiltenbur/git/xorp.ct/docs-public18/user_manual/user_manual.toc
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 1.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8])
+\tf@toc=\write3
+\openout3 = `user_manual.toc'.
+
+
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/glossary.tex [9] [10
+
+] [11])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/cli_intro.tex [12]
+Chapter 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+[13
+
+]
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 87.
+ [14]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 139.
+
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 139.
+
+[15] [16] [17] [18] [19]
+Overfull \hbox (13.36708pt too wide) in paragraph at lines 382--388
+\OT1/ptm/m/n/10.95 When in con-fig-u-ra-tion mode, the com-mand prompt changes 
+from []\OT1/pcr/m/n/10.95 user@hostname> \OT1/ptm/m/n/10.95 to []\OT1/pcr/m/n/1
+0.95 user@hostname#\OT1/ptm/m/n/10.95 .
+ []
+
+[20]
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 444.
+ [21]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 487.
+ [22] [23] [24]
+
+LaTeX Font Warning: Font shape `OMS/ptm/bx/n' undefined
+(Font)              using `OMS/ptm/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 664.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 671.
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 676.
+[25]
+
+LaTeX Font Warning: Font shape `OMS/pcr/bx/n' undefined
+(Font)              using `OMS/pcr/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 717.
+
+LaTeX Font Info:    Font shape `OMS/pcr/bx/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 717.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+[27] [28] [29])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/config_overview.tex [30]
+Chapter 2.
+[31
+
+]
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 93.
+
+Underfull \hbox (badness 4660) in paragraph at lines 96--107
+\OT1/ptm/m/n/10.95 is no mis-match in the \OT1/pcr/m/n/10.95 address\OT1/ptm/m/
+n/10.95 , \OT1/pcr/m/n/10.95 prefix-length \OT1/ptm/m/n/10.95 and \OT1/pcr/m/n/
+10.95 broadcast \OT1/ptm/m/n/10.95 ar-gu-ments. If the
+ []
+
+
+Overfull \vbox (1.50266pt too high) has occurred while \output is active []
+
+
+[32] [33] [34] [35] [36] [37]
+Underfull \hbox (badness 2035) in paragraph at lines 492--497
+[]\OT1/ptm/m/n/10.95 Note that the in-ter-face/vif named \OT1/pcr/m/n/10.95 reg
+ister[]vif \OT1/ptm/m/n/10.95 is spe-cial. If PIM-SM is con-fig-ured, then
+ []
+
+[38] [39] [40] [41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+Overfull \hbox (7.03595pt too wide) in paragraph at lines 796--798
+[]\OT1/ptm/m/n/10.95 Note that the in-ter-face/vif named \OT1/pcr/m/n/10.95 reg
+ister[]vif \OT1/ptm/m/n/10.95 is spe-cial. If PIM-SM is con-fig-ured, then \OT1
+/pcr/m/n/10.95 register[]vif
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Overfull \hbox (7.62755pt too wide) in paragraph at lines 871--878
+[]\OT1/ptm/m/n/10.95 The \OT1/pcr/m/n/10.95 is-scope-zone \OT1/ptm/m/n/10.95 pa
+-ram-e-ter is used to spec-ify whether a Candidate-BSR \OT1/pcr/m/n/10.95 scope
+-zone \OT1/ptm/m/n/10.95 or a Candidate-
+ []
+
+[44]) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/interfaces.tex [45]
+[46
+
+]
+Chapter 3.
+[47] [48]
+Overfull \hbox (13.52066pt too wide) in paragraph at lines 138--149
+\OT1/ptm/m/n/10.95 ward-ing en-gine rather than by con-fig-ur-ing the for-ward-
+ing en-gine. If \OT1/pcr/m/n/10.95 default-system-config
+ []
+
+[49] [50] [51] [52]
+Overfull \hbox (7.13635pt too wide) in paragraph at lines 373--377
+\OT1/ptm/m/n/10.95 The state of a XORP router's in-ter-faces can be dis-played 
+from op-er-a-tional mode us-ing the \OT1/pcr/m/n/10 show interfaces
+ []
+
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 408.
+) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/firewall.tex
+Underfull \hbox (badness 10000) in paragraph at lines 422--4
+
+ []
+
+[53] [54
+
+]
+Chapter 4.
+[55] [56]
+Overfull \hbox (27.19638pt too wide) in paragraph at lines 146--153
+\OT1/ptm/m/n/10.95 te-ria. In other words, the source port num-ber must be in t
+he in-ter-val [\OT1/pcr/m/n/10.95 port-begin\OT1/ptm/m/n/10.95 ..\OT1/pcr/m/n/1
+0.95 port-end\OT1/ptm/m/n/10.95 ].
+ []
+
+[57] [58] [59]) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/forwarding.tex
+[60]
+Chapter 5.
+[61
+
+] [62] [63]
+Overfull \hbox (9.93686pt too wide) in paragraph at lines 241--247
+\OT1/ptm/m/n/10.95 r/lo-cal/click-/lin-ux-mod-ule/pro-clikefs.o:/usr/local/clic
+k/linuxmodule/click.o'' For FreeBSD, the
+ []
+
+[64]
+Overfull \hbox (38.08768pt too wide) in paragraph at lines 290--297
+\OT1/ptm/m/n/10.95 typ-i-cally \OT1/pcr/m/n/10 kernel-click-config-generator-fi
+le \OT1/ptm/m/n/10.95 and \OT1/pcr/m/n/10 user-click-config-generator-file
+ []
+
+[65] [66] [67]
+Underfull \vbox (badness 5288) has occurred while \output is active []
+
+ [68])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/unicast_routing.tex [69]
+[70
+
+]
+Chapter 6.
+[71] [72]
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 141.
+
+Overfull \hbox (15.11205pt too wide) in paragraph at lines 143--149
+\OT1/ptm/m/n/10.95 tances are \OT1/pcr/m/n/10 show route admin distance ipv4 mu
+lticast \OT1/ptm/m/n/10.95 and \OT1/pcr/m/n/10 show route admin distance ipv6
+ []
+
+[73]) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/static_routes.tex
+[74]
+Chapter 7.
+[75
+
+] [76] [77] [78] [79] [80])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/rip.tex
+Overfull \hbox (17.7159pt too wide) in paragraph at lines 386--4
+[]\OT1/ptm/m/n/10.95 The Mul-ti-cast RIB static routes can be dis-played us-ing
+ the com-mands \OT1/pcr/m/n/10 show route table ipv4 multicast
+ []
+
+[81] [82
+
+]
+Chapter 8.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83]
+[84] [85] [86]
+Overfull \hbox (57.68279pt too wide) in paragraph at lines 220--236
+\OT1/pcr/m/n/10 (triggered-delay - triggered-delay * triggered-jitter / 100) \O
+T1/ptm/m/n/10.95 and \OT1/pcr/m/n/10 (triggered-delay
+ []
+
+
+Overfull \hbox (55.71489pt too wide) in paragraph at lines 236--240
+[]\OT1/pcr/m/n/10.95 triggered-jitter\OT1/ptm/m/n/10.95 : See \OT1/pcr/m/n/10 t
+riggered-delay \OT1/ptm/m/n/10.95 for de-tails. The de-fault is 66 per-cents (\
+OT1/ptm/m/it/10.95 i.e.,\OT1/pcr/m/n/10 triggered-delay
+ []
+
+
+Overfull \hbox (2.6229pt too wide) in paragraph at lines 240--252
+\OT1/pcr/m/n/10 / 100) \OT1/ptm/m/n/10.95 and \OT1/pcr/m/n/10 (update-interval 
++ update-interval * update-jitter / 100)\OT1/ptm/m/n/10.95 . The
+ []
+
+
+Overfull \hbox (26.87381pt too wide) in paragraph at lines 252--256
+[]\OT1/pcr/m/n/10.95 update-jitter\OT1/ptm/m/n/10.95 : See \OT1/pcr/m/n/10 upda
+te-interval \OT1/ptm/m/n/10.95 for de-tails. The de-fault is 16 per-cents, (\OT
+1/ptm/m/it/10.95 i.e.,\OT1/pcr/m/n/10 update-jitter
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 267--267
+[][]\OT1/ptm/m/n/9 Note that prior to XORP Release-1.3, the \OT1/pcr/m/n/9 inte
+rpacket-delay-msecs \OT1/ptm/m/n/9 state-ment was used in-stead of
+ []
+
+[87] [88] [89]) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/ospf.tex
+Overfull \hbox (15.55775pt too wide) in paragraph at lines 430--4
+\OT1/pcr/m/n/10 rip\OT1/ptm/m/n/10.95 . The op-er-a-tional com-mands for mon-i-
+tor-ing the MRIB routes are \OT1/pcr/m/n/10 show route table ipv4 multicast
+ []
+
+[90]
+Chapter 9.
+[91
+
+] [92] [93] [94]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+[96] [97]
+Overfull \hbox (9.64917pt too wide) in paragraph at lines 468--472
+[]\OT1/pcr/m/n/10.95 priority\OT1/ptm/m/n/10.95 : This is the pri-or-ity used t
+o se-lect the Des-ig-nated Router on a \OT1/pcr/m/n/10 broadcast
+ []
+
+
+Underfull \vbox (badness 3977) has occurred while \output is active []
+
+ [98]
+Overfull \hbox (3.97025pt too wide) in paragraph at lines 587--590
+[]\OT1/ptm/m/n/10.95 This con-fig-u-ra-tion is an ex-am-ple of the min-i-mal po
+s-si-ble con-fig-u-ra-tion. OSPFv2 is run-ning in the \OT1/pcr/m/n/10.95 BACKBO
+NE
+ []
+
+
+Overfull \hbox (3.97025pt too wide) in paragraph at lines 614--618
+[]\OT1/ptm/m/n/10.95 This con-fig-u-ra-tion is an ex-am-ple of the min-i-mal po
+s-si-ble con-fig-u-ra-tion. OSPFv3 is run-ning in the \OT1/pcr/m/n/10.95 BACKBO
+NE
+ []
+
+[99] [100] [101] [102]) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/bgp.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 784--4
+
+ []
+
+[103] [104
+
+]
+Chapter 10.
+[105] [106] [107] [108] [109] [110] [111] [112] [113])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/policy.tex [114]
+Chapter 11.
+LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <8> not available
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 59.
+[115
+
+] [116]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [117]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [118]
+[119]
+Overfull \hbox (8.6131pt too wide) in paragraph at lines 389--395
+\OT1/ptm/m/n/10.95 ent types are cre-ated in dif-fer-ent ways. For ex-am-ple, a
+ set of IPv4 pre-fixes is cre-ated via the \OT1/pcr/m/n/10.95 network4-list
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [120]
+Underfull \vbox (badness 2503) has occurred while \output is active []
+
+ [121]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [122]
+[123]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [124]
+[125]
+Underfull \hbox (badness 3386) in paragraph at lines 765--767
+[]\OT1/ptm/m/n/10.95 If the set con-tains a com-mu-nity which
+ []
+
+
+Overfull \hbox (13.52797pt too wide) in paragraph at lines 789--822
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [126]
+[127]
+Underfull \vbox (badness 2865) has occurred while \output is active []
+
+ [128]
+[129] [130]
+Underfull \vbox (badness 4492) has occurred while \output is active []
+
+ [131])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/vrrp.tex [132]
+Chapter 12.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133
+
+]
+Underfull \vbox (badness 1803) has occurred while \output is active []
+
+ [134])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/multicast_routing.tex [135]
+[136
+
+]
+Chapter 13.
+[137] [138]) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/igmp.tex [139]
+[140
+
+]
+Chapter 14.
+[141] [142] [143] [144] [145] [146])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/pimsm.tex [147] [148
+
+]
+Chapter 15.
+[149] [150] [151] [152] [153]
+Overfull \hbox (2.18956pt too wide) in paragraph at lines 339--339
+ []\OT1/pcr/m/n/10.95 options         PIM             # Protocol Independent Mu
+lticast[] 
+ []
+
+
+Overfull \hbox (2.18956pt too wide) in paragraph at lines 350--350
+ []\OT1/pcr/m/n/10.95 option          PIM             # Protocol Independent Mu
+lticast[] 
+ []
+
+[154]
+Overfull \hbox (4.3795pt too wide) in paragraph at lines 479--479
+ []\OT1/pcr/m/n/10.95 # GRE tunnel between two machines (host 11.11.11.11 and 3
+3.33.33.33) 
+ []
+
+
+Overfull \hbox (30.65947pt too wide) in paragraph at lines 488--488
+ []\OT1/pcr/m/n/10.95 ip tunnel add gre1 mode gre remote 33.33.33.33 local 11.1
+1.11.11 ttl 127[] 
+ []
+
+[155]
+Overfull \hbox (30.65947pt too wide) in paragraph at lines 495--495
+ []\OT1/pcr/m/n/10.95 ip tunnel add gre1 mode gre remote 11.11.11.11 local 33.3
+3.33.33 ttl 127[] 
+ []
+
+
+Overfull \hbox (30.65947pt too wide) in paragraph at lines 512--512
+ []\OT1/pcr/m/n/10.95 # OpenVPN tunnel between two machines (host 11.11.11.11 a
+nd 33.33.33.33) 
+ []
+
+
+Overfull \hbox (24.08948pt too wide) in paragraph at lines 519--519
+ []\OT1/pcr/m/n/10.95 openvpn --local 11.11.11.11 --remote 33.33.33.33 --ifconf
+ig 22.22.22.11[] 
+ []
+
+
+Overfull \hbox (24.08948pt too wide) in paragraph at lines 523--523
+ []\OT1/pcr/m/n/10.95 openvpn --local 33.33.33.33 --remote 11.11.11.11 --ifconf
+ig 22.22.22.33[] 
+ []
+
+[156] [157]
+Overfull \vbox (25.36998pt too high) has occurred while \output is active []
+
+
+[158]
+Overfull \hbox (21.92839pt too wide) in paragraph at lines 783--790
+\OT1/ptm/m/n/10.95 directional in-ter-faces such as satel-lite links are used f
+or re-ceiv-ing traf-fic. The \OT1/pcr/m/n/10 alternative-subnet
+ []
+
+[159] [160]
+Overfull \hbox (31.65294pt too wide) in paragraph at lines 877--883
+\OT1/ptm/m/n/10.95 strap mes-sages. This ad-dress must be-long to the vif spec-
+i-fied by \OT1/pcr/m/n/10.95 cand-bsr-by-vif-name\OT1/ptm/m/n/10.95 .
+ []
+
+[161]
+Overfull \hbox (51.76782pt too wide) in paragraph at lines 932--939
+\OT1/ptm/m/n/10.95 this router be-comes an RP. This ad-dress must be-long to th
+e vif spec-i-fied by \OT1/pcr/m/n/10.95 cand-rp-by-vif-name\OT1/ptm/m/n/10.95 .
+
+ []
+
+[162] [163] [164]
+Overfull \vbox (34.86998pt too high) has occurred while \output is active []
+
+
+[165] [166] [167] [168] [169] [170] [171] [172])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/multicast_topology.tex [173]
+[174
+
+]
+Chapter 16.
+[175] [176]) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/snmp.tex [177]
+[178
+
+]
+Chapter 17.
+[179]
+Overfull \hbox (12.60153pt too wide) in paragraph at lines 86--91
+\OT1/ptm/m/n/10.95 you want to cre-ate a se-cure user, ex-e-cute the com-mand \
+OT1/pcr/m/n/10 net-snmp-config --create-snmpv3-user\OT1/ptm/m/n/10.95 .
+ []
+
+
+Overfull \hbox (25.81073pt too wide) in paragraph at lines 86--91
+\OT1/ptm/m/n/10.95 These are the set-tings that match the pro-vided \OT1/pcr/m/
+n/10 snmp.conf \OT1/ptm/m/n/10.95 file in-side the \OT1/pcr/m/n/10 $\OMS/cmsy/m
+/n/10 f\OT1/pcr/m/n/10 XORP\OMS/cmsy/m/n/10 g\OT1/pcr/m/n/10 /mibs/snmpdscripts
+/
+ []
+
+
+Underfull \vbox (badness 1087) has occurred while \output is active []
+
+ [180]
+[181]
+Overfull \hbox (43.92242pt too wide) in paragraph at lines 213--219
+\OT1/ptm/m/n/10.95 point to that di-rec-tory or copy those files to your MIBS d
+i-rec-tory (de-fault is \OT1/pcr/m/n/10 /usr/local/share/snmp/mibs\OT1/ptm/m/n/
+10.95 ).
+ []
+
+) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/users.tex [182]
+Chapter 18.
+) (/Users/wmiltenbur/git/xorp.ct/docs/user_manual/diagnostics.tex [183
+
+]
+[184
+
+]
+Chapter 19.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [185])
+(/Users/wmiltenbur/git/xorp.ct/docs/user_manual/livecd.tex [186]
+Chapter 20.
+[187
+
+]
+File: figs/cd1.ps Graphic file (type eps)
+ <figs/cd1.ps>
+File: figs/cd2.ps Graphic file (type eps)
+ <figs/cd2.ps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[188]
+File: figs/cd4.ps Graphic file (type eps)
+ <figs/cd4.ps>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [189]
+[190]) (/Users/wmiltenbur/git/xorp.ct/docs-public18/user_manual/user_manual.bbl
+[191] [192
+
+]) [193]
+(/Users/wmiltenbur/git/xorp.ct/docs-public18/user_manual/user_manual.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3730 strings out of 493316
+ 54548 string characters out of 6137931
+ 107665 words of memory out of 5000000
+ 7024 multiletter control sequences out of 15000+600000
+ 27537 words of font info for 85 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 32i,9n,32p,246b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on user_manual.dvi (193 pages, 528452 bytes).

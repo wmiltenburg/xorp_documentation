@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: user_manual.aux
+The style file: plain.bst
+Database file #1: ../tex/xorp.bib
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            506 strings with 4178 characters,
+and the built_in function-call counts, 334 in all, are:
+= -- 29
+> -- 2
+< -- 0
++ -- 2
+- -- 0
+* -- 10
+:= -- 42
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 8
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 14
+empty$ -- 47
+format.name$ -- 0
+if$ -- 80
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 0
+newline$ -- 11
+num.names$ -- 0
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 16
+stack$ -- 0
+substring$ -- 10
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 0
+width$ -- 3
+write$ -- 16

@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{PIM-SM}
+Bill Fenner, Mark Handley, Hugh Holbrook, and Isidor Kouvelas.
+\newblock {Protocol Independent Multicast - Sparse Mode (PIM-SM): Protocol
+  Specification (Revised)}.
+\newblock {\em Internet Draft, draft-ietf-pim-sm-v2-new-11.txt}, October 2004.
+\newblock Work in progress.
+
+\bibitem{PIM-SM-BOOTSTRAP}
+Bill Fenner, Mark Handley, Roger Kermode, and David Thaler.
+\newblock {Bootstrap Router (BSR) Mechanism for PIM Sparse Mode}.
+\newblock {\em Internet Draft, draft-ietf-pim-sm-bsr-03.txt}, February 2003.
+\newblock Work in progress.
+
+\bibitem{xorp:multicast_arch}
+{XORP Multicast Routing Design Architecture}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\end{thebibliography}

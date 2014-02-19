@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{IGMP-V3}
+Brad Cain, Steve Deering, Isidor Kouvelas, Bill Fenner, and Ajit Thyagarajan.
+\newblock {Internet Group Management Protocol, Version 3}.
+\newblock Request For Comments (RFC) 3376, October 2002.
+\newblock http://www.ietf.org/rfc.html.
+
+\bibitem{IGMP-V1}
+S.~Deering.
+\newblock {Host Extensions for IP Multicasting}.
+\newblock Request For Comments (RFC) 1112, August 1989.
+\newblock http://www.ietf.org/rfc.html.
+
+\bibitem{MLD-V1}
+Steve Deering, Bill Fenner, and Brian Haberman.
+\newblock {Multicast Listener Discovery (MLD) for IPv6}.
+\newblock Request For Comments (RFC) 2710, October 1999.
+\newblock http://www.ietf.org/rfc.html.
+
+\bibitem{IGMP-V2}
+W.~Fenner.
+\newblock {Internet Group Management Protocol, Version 2}.
+\newblock Request For Comments (RFC) 2236, November 1997.
+\newblock http://www.ietf.org/rfc.html.
+
+\bibitem{MLD-V2}
+R.~Vida and L.~Costa (Editors).
+\newblock {Multicast Listener Discovery Version 2 (MLDv2) for IPv6}.
+\newblock Request For Comments (RFC) 3810, June 2004.
+\newblock http://www.ietf.org/rfc.html.
+
+\bibitem{xorp:multicast_arch}
+{XORP Multicast Routing Design Architecture}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\end{thebibliography}

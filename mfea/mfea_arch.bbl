@@ -1,0 +1,17 @@
+\begin{thebibliography}{1}
+
+\bibitem{CLICK-PROJECT}
+{The Click Modular Router Project}.
+\newblock http://www.read.cs.ucla.edu/click/.
+
+\bibitem{xorp:fea}
+{XORP Forwarding Engine Abstraction}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:multicast_arch}
+{XORP Multicast Routing Design Architecture}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\end{thebibliography}

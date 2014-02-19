@@ -1,0 +1,36 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Basic interoperability test setup}}{11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Hello transmission test setup}}{14}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Two-way neighbor adjacency test setup}}{15}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Hello reception test setup}}{17}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Holdtime option test setup}}{19}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces DR priority option test setup}}{22}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Generation ID option test setup}}{26}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Two-way neighbor adjacency without Hello messages test setup}}{28}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Register messages transmission test setup}}{31}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Register tunnel interface test setup}}{34}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Register messages reception test setup}}{39}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Receiving (*,*,RP) Join/Prune messages test setup}}{43}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Receiving (*,G) Join/Prune messages test setup}}{49}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Receiving (S,G) Join/Prune messages test setup}}{55}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Receiving (S,G,rpt) Join/Prune messages test setup}}{65}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Sending (*,*,RP) Join/Prune Messages test setup}}{73}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Sending (*,G) Join/Prune Messages test setup}}{81}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Sending (S,G) Join/Prune Messages test setup}}{91}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces (S,G,rpt) periodic messages test setup}}{104}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces State machine for (S,G,rpt) triggered messages test setup}}{112}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces (S,G) Assert message state machine test setup}}{132}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces (*,G) Assert message state machine test setup}}{151}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Candidate BSR state machine test setup}}{171}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Non-candidate BSR state machine test setup}}{185}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Sending Candidate-RP-Advertisements test setup}}{191}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Creating the RP-Set at the BSR test setup}}{194}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Forwarding Bootstrap messages test setup}}{203}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Receiving and using the RP-Set test setup}}{206}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Semantic fragmentation of BSMs test setup}}{214}

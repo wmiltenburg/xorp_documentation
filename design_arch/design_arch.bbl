@@ -1,0 +1,63 @@
+\begin{thebibliography}{10}
+
+\bibitem{CLICK-PROJECT}
+{The Click Modular Router Project}.
+\newblock http://www.read.cs.ucla.edu/click/.
+
+\bibitem{handley:hotnets2002:xorp}
+Mark Handley, Orion Hodson, and Eddie Kohler.
+\newblock {XORP: An Open Platform for Network Research}.
+\newblock In {\em Proceedings of HotNets-I Workshop}, Princeton, New Jersey,
+  USA, October 2002.
+
+\bibitem{xorp:bgp}
+{XORP BGP Routing Daemon}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:fea}
+{XORP Forwarding Engine Abstraction}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:xrl}
+{XORP Inter-Process Communication Library}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:mld_igmp}
+{XORP MLD/IGMP Daemon}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:mfea}
+{XORP Multicast Forwarding Engine Abstraction}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:multicast_arch}
+{XORP Multicast Routing Design Architecture}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:pim}
+{XORP PIM-SM Routing Daemon}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:rtrmgr}
+{XORP Router Manager Process (rtrmgr)}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:rib}
+{XORP Routing Information Base (RIB) Process}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\bibitem{xorp:xrl_interfaces}
+{XRL Interfaces: Specification and Tools}.
+\newblock XORP technical document.
+\newblock http://www.xorp.org/.
+
+\end{thebibliography}

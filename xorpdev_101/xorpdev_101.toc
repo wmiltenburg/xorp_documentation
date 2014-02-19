@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Overview}{2}
+\contentsline {section}{\numberline {3}The XRL Interface of {\it static\_routes}}{3}
+\contentsline {section}{\numberline {4}Using the {\tt static\_routes} XRL Interface}{5}
+\contentsline {subsection}{\numberline {4.1}Generating stub code for the caller}{5}
+\contentsline {subsection}{\numberline {4.2}Generating stub code for the target}{8}
+\contentsline {section}{\numberline {5}The Main Loop}{16}
+\contentsline {section}{\numberline {6}Calling XRLs on the RIB}{20}
+\contentsline {subsection}{\numberline {6.1}Returning values in XRLs}{26}
+\contentsline {section}{\numberline {7}Compiling the Source Code}{27}
+\contentsline {section}{\numberline {8}The XLOG Logging Facility}{28}
+\contentsline {section}{\numberline {9}The {\it rtrmgr} Template Files}{32}
+\contentsline {section}{\numberline {A}Modification History}{33}

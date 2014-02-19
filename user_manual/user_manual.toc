@@ -1,0 +1,183 @@
+\contentsline {chapter}{\numberline {1}Command Structure}{13}
+\contentsline {section}{\numberline {1.1}Introduction}{13}
+\contentsline {section}{\numberline {1.2}Running xorpsh}{13}
+\contentsline {section}{\numberline {1.3}Basic Commands}{14}
+\contentsline {subsection}{\numberline {1.3.1}Command History and Command Line Editing}{15}
+\contentsline {subsection}{\numberline {1.3.2}Command Output Displaying}{16}
+\contentsline {subsection}{\numberline {1.3.3}Command Output Filtering}{17}
+\contentsline {section}{\numberline {1.4}Command Modes}{18}
+\contentsline {section}{\numberline {1.5}Operational Mode}{18}
+\contentsline {subsection}{\numberline {1.5.1}Show Command}{19}
+\contentsline {section}{\numberline {1.6}Configuration Mode}{20}
+\contentsline {subsection}{\numberline {1.6.1}Moving around the Configuration Tree}{22}
+\contentsline {subsection}{\numberline {1.6.2}Loading and Saving Configurations}{22}
+\contentsline {subsection}{\numberline {1.6.3}Setting Configuration Values}{24}
+\contentsline {subsection}{\numberline {1.6.4}Adding New Configuration}{25}
+\contentsline {subsection}{\numberline {1.6.5}Deleting Parts of the Configuration}{26}
+\contentsline {subsection}{\numberline {1.6.6}Committing Changes}{28}
+\contentsline {subsection}{\numberline {1.6.7}Discarding Changes}{28}
+\contentsline {section}{\numberline {1.7}Configuring xorpsh Behavior}{28}
+\contentsline {subsection}{\numberline {1.7.1}Configuring the xorpsh Prompt}{28}
+\contentsline {section}{\numberline {1.8}Running xorpsh in Non-Interactive Mode}{29}
+\contentsline {chapter}{\numberline {2}Configuration Overview}{31}
+\contentsline {section}{\numberline {2.1}Introduction}{31}
+\contentsline {section}{\numberline {2.2}Network Interfaces}{31}
+\contentsline {section}{\numberline {2.3}Firewall}{32}
+\contentsline {section}{\numberline {2.4}Forwarding Engine Abstraction}{33}
+\contentsline {section}{\numberline {2.5}Protocols}{34}
+\contentsline {subsection}{\numberline {2.5.1}Static Routes}{34}
+\contentsline {subsection}{\numberline {2.5.2}Routing Information Protocol}{35}
+\contentsline {subsection}{\numberline {2.5.3}Open Shortest Path First}{36}
+\contentsline {subsection}{\numberline {2.5.4}Border Gateway Protocol}{37}
+\contentsline {subsection}{\numberline {2.5.5}Multicast Forwarding Engine Abstraction}{38}
+\contentsline {subsection}{\numberline {2.5.6}Internet Group Management Protocol/Multicast Listener Discovery}{39}
+\contentsline {subsection}{\numberline {2.5.7}Protocol Independent Multicast - Sparse Mode}{41}
+\contentsline {subsection}{\numberline {2.5.8}FIB2MRIB}{45}
+\contentsline {chapter}{\numberline {3}Network Interfaces}{47}
+\contentsline {section}{\numberline {3.1}Network Interfaces Terminology and Concepts}{47}
+\contentsline {section}{\numberline {3.2}Configuring Network Interfaces}{48}
+\contentsline {subsection}{\numberline {3.2.1}Configuration Syntax}{48}
+\contentsline {subsection}{\numberline {3.2.2}Example Configurations}{51}
+\contentsline {subsubsection}{Configuring Interface Addresses}{51}
+\contentsline {subsubsection}{Using Pre-Configured Interface Addresses}{51}
+\contentsline {subsubsection}{Configuring VLANs}{52}
+\contentsline {section}{\numberline {3.3}Monitoring Network Interfaces}{53}
+\contentsline {chapter}{\numberline {4}Firewall}{55}
+\contentsline {section}{\numberline {4.1}Firewall Terminology and Concepts}{55}
+\contentsline {section}{\numberline {4.2}Configuring Firewall Rules}{56}
+\contentsline {subsection}{\numberline {4.2.1}Configuration Syntax}{56}
+\contentsline {subsection}{\numberline {4.2.2}Example Configurations}{59}
+\contentsline {section}{\numberline {4.3}Monitoring Firewall Rules}{60}
+\contentsline {chapter}{\numberline {5}Forwarding Engine}{61}
+\contentsline {section}{\numberline {5.1}Terminology and Concepts}{61}
+\contentsline {section}{\numberline {5.2}Configuration of the Forwarding Engine}{62}
+\contentsline {subsection}{\numberline {5.2.1}Configuration Syntax}{62}
+\contentsline {subsection}{\numberline {5.2.2}Example Configurations}{67}
+\contentsline {section}{\numberline {5.3}Monitoring the Forwarding Engine}{68}
+\contentsline {chapter}{\numberline {6}Unicast Routing}{71}
+\contentsline {section}{\numberline {6.1}An Overview of Unicast Routing}{71}
+\contentsline {subsection}{\numberline {6.1.1}Dynamic Routing}{72}
+\contentsline {subsection}{\numberline {6.1.2}Administrative Distance}{72}
+\contentsline {subsection}{\numberline {6.1.3}Route Redistribution}{73}
+\contentsline {chapter}{\numberline {7}Static Routes}{75}
+\contentsline {section}{\numberline {7.1}Terminology and Concepts}{75}
+\contentsline {section}{\numberline {7.2}Configuration of Static Routes}{76}
+\contentsline {subsection}{\numberline {7.2.1}Configuration Syntax}{76}
+\contentsline {subsection}{\numberline {7.2.2}Example Configurations}{80}
+\contentsline {section}{\numberline {7.3}Monitoring Static Routes}{81}
+\contentsline {chapter}{\numberline {8}RIP and RIPng}{83}
+\contentsline {section}{\numberline {8.1}Terminology and Concepts}{83}
+\contentsline {subsection}{\numberline {8.1.1}Standards Supported}{84}
+\contentsline {section}{\numberline {8.2}Configuring RIP}{85}
+\contentsline {subsection}{\numberline {8.2.1}Configuration Syntax}{85}
+\contentsline {section}{\numberline {8.3}Configuring RIPng}{88}
+\contentsline {subsection}{\numberline {8.3.1}Example Configurations}{89}
+\contentsline {section}{\numberline {8.4}Monitoring RIP}{90}
+\contentsline {chapter}{\numberline {9}OSPFv2 and OSPFv3}{91}
+\contentsline {section}{\numberline {9.1}OSPF Terminology and Concepts}{91}
+\contentsline {subsection}{\numberline {9.1.1}Key OSPF Concepts}{91}
+\contentsline {section}{\numberline {9.2}Standards}{92}
+\contentsline {section}{\numberline {9.3}Configuring OSPF}{93}
+\contentsline {subsection}{\numberline {9.3.1}Configuration Syntax}{93}
+\contentsline {subsection}{\numberline {9.3.2}Example Configurations}{99}
+\contentsline {section}{\numberline {9.4}Clearing OSPF database}{100}
+\contentsline {section}{\numberline {9.5}Monitoring OSPF}{101}
+\contentsline {chapter}{\numberline {10}BGP}{105}
+\contentsline {section}{\numberline {10.1}BGP Terminology and Concepts}{105}
+\contentsline {subsection}{\numberline {10.1.1}Key BGP Concepts}{105}
+\contentsline {section}{\numberline {10.2}Standards}{106}
+\contentsline {section}{\numberline {10.3}Configuring BGP}{107}
+\contentsline {subsection}{\numberline {10.3.1}Configuration Syntax}{107}
+\contentsline {subsection}{\numberline {10.3.2}Example Configurations}{110}
+\contentsline {section}{\numberline {10.4}Monitoring BGP}{111}
+\contentsline {subsection}{\numberline {10.4.1}BGP MIB}{113}
+\contentsline {section}{\numberline {10.5}BGP path selection}{114}
+\contentsline {subsection}{\numberline {10.5.1}Reasons for ignoring a path}{114}
+\contentsline {subsection}{\numberline {10.5.2}BGP decision process}{114}
+\contentsline {chapter}{\numberline {11}Policy}{115}
+\contentsline {section}{\numberline {11.1}Terminology and Concepts}{115}
+\contentsline {section}{\numberline {11.2}Policy Statement}{115}
+\contentsline {subsection}{\numberline {11.2.1}Term}{116}
+\contentsline {subsubsection}{Match Conditions}{116}
+\contentsline {subsubsection}{Actions}{117}
+\contentsline {subsubsection}{Final action}{117}
+\contentsline {subsection}{\numberline {11.2.2}Policy subroutines}{118}
+\contentsline {subsection}{\numberline {11.2.3}Applying policies to protocols}{119}
+\contentsline {subsubsection}{Policy expressions}{120}
+\contentsline {section}{\numberline {11.3}Sets}{120}
+\contentsline {subsection}{\numberline {11.3.1}Network lists}{121}
+\contentsline {section}{\numberline {11.4}Ranges}{122}
+\contentsline {section}{\numberline {11.5}Tracing}{122}
+\contentsline {section}{\numberline {11.6}Route Redistribution}{123}
+\contentsline {section}{\numberline {11.7}Common Directives for all Protocols}{123}
+\contentsline {subsection}{\numberline {11.7.1}Match Conditions}{124}
+\contentsline {subsection}{\numberline {11.7.2}Actions}{125}
+\contentsline {section}{\numberline {11.8}BGP}{125}
+\contentsline {subsection}{\numberline {11.8.1}Match Conditions}{126}
+\contentsline {subsection}{\numberline {11.8.2}Actions}{126}
+\contentsline {section}{\numberline {11.9}Static Routes}{127}
+\contentsline {section}{\numberline {11.10}RIP and RIPng}{127}
+\contentsline {subsection}{\numberline {11.10.1}Match Conditions}{127}
+\contentsline {subsection}{\numberline {11.10.2}Actions}{128}
+\contentsline {section}{\numberline {11.11}OSPF}{128}
+\contentsline {subsection}{\numberline {11.11.1}Match Conditions}{128}
+\contentsline {subsection}{\numberline {11.11.2}Actions}{128}
+\contentsline {section}{\numberline {11.12}Examples}{129}
+\contentsline {section}{\numberline {11.13}Policy commands}{130}
+\contentsline {subsection}{\numberline {11.13.1}test policy}{131}
+\contentsline {subsection}{\numberline {11.13.2}show policy}{131}
+\contentsline {chapter}{\numberline {12}VRRP}{133}
+\contentsline {section}{\numberline {12.1}VRRP Terminology and Concepts}{133}
+\contentsline {section}{\numberline {12.2}Configuration of VRRP}{133}
+\contentsline {section}{\numberline {12.3}Monitoring VRRP}{134}
+\contentsline {section}{\numberline {12.4}Limitations}{135}
+\contentsline {chapter}{\numberline {13}Multicast Routing}{137}
+\contentsline {section}{\numberline {13.1}An Overview of Multicast Routing}{137}
+\contentsline {subsection}{\numberline {13.1.1}Multicast Routing}{137}
+\contentsline {subsection}{\numberline {13.1.2}Service Models: ASM vs SSM}{138}
+\contentsline {subsection}{\numberline {13.1.3}Multicast Addresses}{138}
+\contentsline {section}{\numberline {13.2}Supported Protocols}{139}
+\contentsline {chapter}{\numberline {14}IGMP and MLD}{141}
+\contentsline {section}{\numberline {14.1}Terminology and Concepts}{141}
+\contentsline {section}{\numberline {14.2}Standards}{142}
+\contentsline {section}{\numberline {14.3}Configuring IGMP and MLD}{142}
+\contentsline {subsection}{\numberline {14.3.1}Configuration Syntax}{142}
+\contentsline {subsection}{\numberline {14.3.2}Example Configurations}{145}
+\contentsline {section}{\numberline {14.4}Monitoring IGMP}{146}
+\contentsline {chapter}{\numberline {15}PIM Sparse-Mode}{149}
+\contentsline {section}{\numberline {15.1}Terminology and Concepts}{149}
+\contentsline {subsection}{\numberline {15.1.1}PIM-SM Protocol Overview}{149}
+\contentsline {subsubsection}{Multi-access Transit LANs}{151}
+\contentsline {section}{\numberline {15.2}Standards}{152}
+\contentsline {section}{\numberline {15.3}Configuring PIM-SM}{153}
+\contentsline {subsection}{\numberline {15.3.1}Configuring Multicast Routing on UNIX Systems}{153}
+\contentsline {subsection}{\numberline {15.3.2}Configuring Multicast Tunnels on UNIX Systems}{155}
+\contentsline {subsection}{\numberline {15.3.3}Configuration Syntax}{157}
+\contentsline {subsection}{\numberline {15.3.4}Example Configurations}{164}
+\contentsline {section}{\numberline {15.4}Monitoring PIM-SM}{166}
+\contentsline {subsection}{\numberline {15.4.1}Monitoring PIM-SM Bootstrap Information}{166}
+\contentsline {subsection}{\numberline {15.4.2}Monitoring PIM-SM Interface Information}{167}
+\contentsline {subsection}{\numberline {15.4.3}Monitoring PIM-SM Multicast Routing State Information}{169}
+\contentsline {subsection}{\numberline {15.4.4}Monitoring PIM-SM Multicast Routing State Information}{171}
+\contentsline {subsection}{\numberline {15.4.5}Monitoring PIM-SM Multicast Routing Information Base}{171}
+\contentsline {subsection}{\numberline {15.4.6}Monitoring PIM-SM Multicast Routing Information Base}{172}
+\contentsline {subsection}{\numberline {15.4.7}Monitoring PIM-SM Candidate RP Set Information}{172}
+\contentsline {subsection}{\numberline {15.4.8}Monitoring PIM-SM Scope Zone Information}{173}
+\contentsline {chapter}{\numberline {16}Multicast Topology Discovery}{175}
+\contentsline {section}{\numberline {16.1}Terminology and Concepts}{175}
+\contentsline {section}{\numberline {16.2}Configuring the MRIB}{175}
+\contentsline {section}{\numberline {16.3}Monitoring the MRIB}{176}
+\contentsline {chapter}{\numberline {17}SNMP}{179}
+\contentsline {section}{\numberline {17.1}Terminology and Concepts}{179}
+\contentsline {section}{\numberline {17.2}Configuring SNMP}{180}
+\contentsline {subsection}{\numberline {17.2.1}Configuring Net-SNMP}{180}
+\contentsline {subsection}{\numberline {17.2.2}Configuration Syntax}{181}
+\contentsline {section}{\numberline {17.3}Using SNMP to Monitor a Router}{181}
+\contentsline {chapter}{\numberline {18}User Management}{183}
+\contentsline {chapter}{\numberline {19}Diagnostics and Debugging}{185}
+\contentsline {section}{\numberline {19.1}Debugging and Diagnostic Commands}{185}
+\contentsline {chapter}{\numberline {20}XORP Live CD}{187}
+\contentsline {section}{\numberline {20.1}Running the Live CD}{187}
+\contentsline {section}{\numberline {20.2}Starting XORP the First Time}{188}
+\contentsline {section}{\numberline {20.3}Saving Config}{190}
+\contentsline {section}{\numberline {20.4}Interface Naming}{190}

@@ -1,0 +1,44 @@
+\contentsline {chapter}{\numberline {0}Introduction}{6}
+\contentsline {section}{\numberline {0.1}Overview}{6}
+\contentsline {section}{\numberline {0.2}Test Software}{6}
+\contentsline {section}{\numberline {0.3}Acronyms}{6}
+\contentsline {section}{\numberline {0.4}Definitions}{7}
+\contentsline {section}{\numberline {0.5}Timers and Default Values}{7}
+\contentsline {section}{\numberline {0.6}Test Organization}{7}
+\contentsline {section}{\numberline {0.7}References}{8}
+\contentsline {section}{\numberline {0.8}Acknowledgments}{9}
+\contentsline {chapter}{\numberline {1}Interoperability}{10}
+\contentsline {section}{\numberline {1.1}Basic Interoperability}{11}
+\contentsline {chapter}{\numberline {2}Designated Routers (DR) and Hello Messages}{13}
+\contentsline {section}{\numberline {2.1}Hello Transmission}{14}
+\contentsline {section}{\numberline {2.2}Two-Way Neighbor Adjacency}{15}
+\contentsline {section}{\numberline {2.3}Hello Reception}{17}
+\contentsline {section}{\numberline {2.4}Holdtime Option}{19}
+\contentsline {section}{\numberline {2.5}DR Priority Option}{22}
+\contentsline {section}{\numberline {2.6}Generation ID Option}{26}
+\contentsline {section}{\numberline {2.7}Two-Way Neighbor Adjacency Without Hello Messages}{28}
+\contentsline {chapter}{\numberline {3}PIM Register Messages}{30}
+\contentsline {section}{\numberline {3.1}Register Messages Transmission}{31}
+\contentsline {section}{\numberline {3.2}Register Tunnel Interface}{34}
+\contentsline {section}{\numberline {3.3}Register Messages Reception}{39}
+\contentsline {chapter}{\numberline {4}PIM Join/Prune Messages}{42}
+\contentsline {section}{\numberline {4.1}Receiving (*,*,RP) Join/Prune Messages}{43}
+\contentsline {section}{\numberline {4.2}Receiving (*,G) Join/Prune Messages}{49}
+\contentsline {section}{\numberline {4.3}Receiving (S,G) Join/Prune Messages}{55}
+\contentsline {section}{\numberline {4.4}Receiving (S,G,rpt) Join/Prune Messages}{65}
+\contentsline {section}{\numberline {4.5}Sending (*,*,RP) Join/Prune Messages}{73}
+\contentsline {section}{\numberline {4.6}Sending (*,G) Join/Prune Messages}{81}
+\contentsline {section}{\numberline {4.7}Sending (S,G) Join/Prune Messages}{91}
+\contentsline {section}{\numberline {4.8}(S,G,rpt) Periodic Messages}{104}
+\contentsline {section}{\numberline {4.9}State Machine for (S,G,rpt) Triggered Messages}{112}
+\contentsline {chapter}{\numberline {5}PIM Assert Messages}{131}
+\contentsline {section}{\numberline {5.1}(S,G) Assert Message State Machine}{132}
+\contentsline {section}{\numberline {5.2}(*,G) Assert Message State Machine}{151}
+\contentsline {chapter}{\numberline {6}Bootstrap Mechanism}{170}
+\contentsline {section}{\numberline {6.1}Candidate BSR State Machine}{171}
+\contentsline {section}{\numberline {6.2}Non-Candidate BSR State Machine}{185}
+\contentsline {section}{\numberline {6.3}Sending Candidate-RP-Advertisements}{191}
+\contentsline {section}{\numberline {6.4}Creating the RP-Set at the BSR}{194}
+\contentsline {section}{\numberline {6.5}Forwarding Bootstrap Messages}{203}
+\contentsline {section}{\numberline {6.6}Receiving and Using the RP-Set}{206}
+\contentsline {section}{\numberline {6.7}Semantic Fragmentation of BSMs}{214}
